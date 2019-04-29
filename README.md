@@ -1,6 +1,8 @@
 # cuddly-goggles
 A year's worth of weather, visually! Written in Processing.
 
+![poster](./data/weather.png)
+
 ### Data
 Data from [NOAA](https://www.ncdc.noaa.gov/cdo-web/search)
 
