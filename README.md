@@ -1,7 +1,7 @@
 # cuddly-goggles
 A year's worth of weather, visually! Written in Processing.
 
-![poster](weather.png)
+<img src="weather.png" alt="poster" width="100">
 
 ### Data
 Data from [NOAA](https://www.ncdc.noaa.gov/cdo-web/search)
